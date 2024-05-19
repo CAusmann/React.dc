@@ -17,3 +17,7 @@ Step 2: Type '^react' followed by your message
 REMINDER: There are only so many regional_indicators. There are a few backup options in the pot just in case a letter is used twice/thrice, but that's not a common option for most letters so just be careful <3
 
 Step 3: Just send the message when it's ready to go!
+
+
+
+p.s. this has literally nothing to do with react.js it's just the first thing i thought of when i needed a name for something that had to do with reactions and discord. /shrug
