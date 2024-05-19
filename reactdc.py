@@ -118,6 +118,7 @@ async def react(ctx, arg1):
             else:
                 await msg.add_reaction('\U00002753')
                 reactions_added.add('\U00002753')
-        reactions_added.clear()
+    
+    reactions_added.clear()
 
 bot.run(TOKEN)
