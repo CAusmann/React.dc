@@ -2,9 +2,9 @@
 # React.dc
 A Discord BOT designed to quickly add regional_indicator reactions (and a few backups/extras) to messages
 
-### Commands:
+## Commands:
 
-# React:
+### React:
 > ^react YOUR_MESSAGE_HERE
 
 The '^react' command is literally the only command there is.
